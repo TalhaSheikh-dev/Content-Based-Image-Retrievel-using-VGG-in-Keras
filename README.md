@@ -25,9 +25,9 @@ https://www.kaggle.com/jessicali9530/caltech256
 
 Unzip the dataset as
 - caltex256
-- - 1.jpg
-- - 2.jpg
-- - 3.jpg
+- - 001_0001.jpg
+- - 001_0002.jpg
+- - 001_0003.jpg
 
 
 # How does it work
