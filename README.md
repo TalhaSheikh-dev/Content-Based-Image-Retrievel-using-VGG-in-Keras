@@ -53,7 +53,7 @@ maxres = 10
 We can use different similarity score link cosine similarity, logarithimic and others here. It depends on the requirement and the dataset we have.
 
 # Input
-<img src="(https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/query.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/query.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
 # Output
