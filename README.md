@@ -53,18 +53,19 @@ maxres = 10
 We can use different similarity score link cosine similarity, logarithimic and others here. It depends on the requirement and the dataset we have.
 
 # Input
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/query.jpg)
+<img src="(https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/query.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
 # Output
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/0.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/1.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/2.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/3.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/4.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/5.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/6.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/7.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/8.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/9.jpg)
-![](https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/10.jpg)
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/0.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/1.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/2.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/3.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/4.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/5.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/6.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/7.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/8.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/TalhaSheikh-dev/Content-Based-Image-Retrievel-using-VGG-in-Keras/blob/main/output/9.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
